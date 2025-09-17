@@ -1,0 +1,13 @@
+.titles {
+    font-family: "Copperplate", "Arial", sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    background-color: rgb(238, 171, 105);
+    text-align: center;
+}
+
+.subtitles {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+}
